@@ -1,150 +1,50 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>GitHub Profile</title>
-  <style>
-    /* Global styles */
-    body {
-      font-family: Arial, sans-serif;
-      margin: 0;
-      padding: 0;
-      background-color: #f0f0f0;
-      overflow-x: hidden;
-    }
+<!-- Your GitHub README -->
+<h1 align="center">Hi there, I'm M.Haris Jamal 👋</h1>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Profile Animation" width="300">
+</p>
 
-    /* Header styles */
-    header {
-      text-align: center;
-      background-color: #0366d6;
-      color: #fff;
-      padding: 2rem 0;
-    }
+<p align="center">I'm currently learning Machine Learning 🤖, and you can ask me about anything related to coding!</p>
+<p align="center">Feel free to reach out: <a href="mailto:harisjamal01@icloud.com">harisjamal01@icloud.com</a></p>
 
-    header h1 {
-      font-size: 2rem;
-    }
+<h2 align="center">Languages and Tools:</h2>
+<p align="center">
+  <img alt="NumPy" src="https://img.shields.io/badge/NumPy-%23000000.svg?&style=for-the-badge&logo=numpy"/>
+  <img alt="Pandas" src="https://img.shields.io/badge/Pandas-%231F77B4.svg?&style=for-the-badge&logo=pandas"/>
+  <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-AB32CD.svg?&style=for-the-badge&logo=tensorflow"/>
+  <!-- Add more icons here -->
+</p>
 
-    /* Profile picture styles */
-    .profile-picture {
-      display: block;
-      margin: 2rem auto;
-      border-radius: 50%;
-      animation: rotate 10s linear infinite;
-    }
+<!-- GitHub stats -->
+<p align="center">
+  <a href="https://www.github.com/harisboi">
+    <img src="https://github-readme-stats.vercel.app/api?username=harisboi&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="GitHub Stats">
+  </a>
+  <a href="https://www.github.com/harisboi">
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=harisboi&hide_border=true&theme=tokyonight" alt="GitHub Streak">
+  </a>
+</p>
 
-    /* Animated GitHub stats styles */
-    .stats {
-      display: flex;
-      justify-content: center;
-      margin-top: 1rem;
-    }
+<!-- Top programming languages -->
+<p align="center">
+  <a href="https://www.github.com/harisboi">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harisboi&langs_count=8&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages">
+  </a>
+</p>
 
-    /* Skill icons styles */
-    .skills {
-      display: flex;
-      justify-content: center;
-      margin-top: 1rem;
-    }
+<!-- Featured project -->
+<p align="center">
+  <a href="https://www.github.com/harisboi/javascript-mini-projects">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=harisboi&repo=javascript-mini-projects&theme=tokyonight&show_icons=true&hide_border=true" alt="Featured Project">
+  </a>
+</p>
 
-    .skills img {
-      width: 50px;
-      height: 50px;
-      margin: 0 10px;
-      animation: bounce 2s infinite;
-    }
-
-    /* Project thumbnails styles */
-    .projects {
-      display: flex;
-      justify-content: center;
-      margin-top: 1rem;
-    }
-
-    .projects img {
-      width: 200px;
-      margin: 0 10px;
-      transition: transform 0.3s ease-in-out;
-    }
-
-    .projects img:hover {
-      transform: scale(1.1);
-    }
-
-    /* Footer styles */
-    footer {
-      text-align: center;
-      padding: 2rem 0;
-      background-color: #0366d6;
-      color: #fff;
-    }
-
-    /* Keyframes for profile picture animation */
-    @keyframes rotate {
-      0% { transform: rotate(0deg); }
-      100% { transform: rotate(360deg); }
-    }
-
-    /* Keyframes for skill icons animation */
-    @keyframes bounce {
-      0%, 20%, 50%, 80%, 100% {
-        transform: translateY(0);
-      }
-      40% {
-        transform: translateY(-10px);
-      }
-      60% {
-        transform: translateY(-5px);
-      }
-    }
-  </style>
-</head>
-<body>
-  <!-- Header section -->
-  <header>
-    <h1>Hi 👋, I'm M.Haris Jamal</h1>
-  </header>
-
-  <!-- Animated background -->
-  <img src="animated-background.gif" alt="Animated Background" style="width: 100%; height: auto;">
-
-  <!-- Animated profile picture -->
-  <img src="animated-profile-picture.gif" alt="Profile Picture" class="profile-picture" width="150">
-
-  <!-- Animated GitHub stats -->
-  <div class="stats">
-    <img src="github-stats.gif" alt="GitHub Stats">
-  </div>
-
-  <!-- Skill icons -->
-  <div class="skills">
-    <img src="python-logo.gif" alt="Python">
-    <img src="javascript-logo.gif" alt="JavaScript">
-    <img src="react-logo.gif" alt="React">
-  </div>
-
-  <!-- Project thumbnails -->
-  <div class="projects">
-    <a href="link-to-project">
-      <img src="project-thumbnail.gif" alt="Project 1">
-    </a>
-    <a href="link-to-project">
-      <img src="project-thumbnail.gif" alt="Project 2">
-    </a>
-  </div>
-
-  <!-- Footer with social media links -->
-  <footer>
-    <a href="mailto:harisjamal01@icloud.com">
-      <img src="email-icon.gif" alt="Email" style="width: 30px; height: 30px; margin-right: 10px;">
-    </a>
-    <a href="https://www.linkedin.com/in/heheboi">
-      <img src="linkedin-icon.gif" alt="LinkedIn" style="width: 30px; height: 30px; margin-right: 10px;">
-    </a>
-    <a href="https://www.instagram.com/hehebrooo">
-      <img src="instagram-icon.gif" alt="Instagram" style="width: 30px; height: 30px;">
-    </a>
-  </footer>
-</body>
-</html>
+<!-- Social media links -->
+<p align="center">
+  <a href="https://www.instagram.com/hehebrooo">
+    <img alt="Instagram" src="https://img.shields.io/badge/hehebrooo-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/heheboi">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+</p>
