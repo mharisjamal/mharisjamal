@@ -64,7 +64,7 @@ Here are some ideas to get you started:
       </a>
     </td>
      <td>
-       <a href="https://www.github.com/thinkswell">
+       <a href="https://www.github.com/harisboi">
        <img src ="https://github-readme-stats.vercel.app/api/pin/?username=thinkswell&repo=javascript-mini-projects&theme=tokyonight&show_icons=true&hide_border=true" />
       </a>
     </td>
@@ -72,7 +72,7 @@ Here are some ideas to get you started:
 </table>
 <p align="center"> 
   <a href="https://www.instagram.com/hehebrooo">
-    <img alt="Instagram" src="https://img.shields.io/badge/mr__thinkswell-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>
+    <img alt="Instagram" src="https://img.shields.io/badge/hehebrooo-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>
   </a>
     
 <a href="https://linkedin.com/in/heheboi">
