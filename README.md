@@ -49,25 +49,25 @@ Here are some ideas to get you started:
 <table>
   <tr>
     <td>
-      <a href="https://www.github.com/thinkswell">
-     <img src="https://github-readme-stats.vercel.app/api?username=thinkswell&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="thinkswell" />
+      <a href="https://www.github.com/harisboi">
+     <img src="https://github-readme-stats.vercel.app/api?username=harisboi&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="harisboi" />
       </a>
     </td>
     <td> 
-      <a href="https://www.github.com/thinkswell">
-       <img src ="http://github-readme-streak-stats.herokuapp.com?user=thinkswell&hide_border=true&theme=tokyonight" />
+      <a href="https://www.github.com/harisboi">
+       <img src ="http://github-readme-streak-stats.herokuapp.com?user=harisboi&hide_border=true&theme=tokyonight" />
       </a>
     </td>
   </tr>
   <tr>
     <td>
-      <a href="https://www.github.com/thinkswell">
-       <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=thinkswell&langs_count=8&layout=compact&theme=tokyonight&hide_border=true" />
+      <a href="https://www.github.com/harisboi">
+       <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=harisboi&langs_count=8&layout=compact&theme=tokyonight&hide_border=true" />
       </a>
     </td>
      <td>
        <a href="https://www.github.com/harisboi">
-       <img src ="https://github-readme-stats.vercel.app/api/pin/?username=thinkswell&repo=javascript-mini-projects&theme=tokyonight&show_icons=true&hide_border=true" />
+       <img src ="https://github-readme-stats.vercel.app/api/pin/?username=harisboi&repo=javascript-mini-projects&theme=tokyonight&show_icons=true&hide_border=true" />
       </a>
     </td>
   </tr>
