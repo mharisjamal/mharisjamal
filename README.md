@@ -31,7 +31,6 @@ Here are some ideas to get you started:
  <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-E4572B.svg?&style=for-the-badge&logo=pytorch"/>
  <img alt="Scikit-learn" src="https://img.shields.io/badge/Scikit-learn-%23D95B43.svg?&style=for-the-badge&logo=scikit-learn"/>
  <img alt="R" src="https://img.shields.io/badge/R-%23198CE7.svg?&style=for-the-badge&logo=r-lang"/>
- <img alt="Julia" src="https://img.shields.io/badge/Julia-A270BA.svg?&style=for-the-badge&logo=julia"/>
  <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C.svg?&style=for-the-badge&logo=c%2B%2B"/>
  <img alt="Java" src="https://img.shields.io/badge/Java-DF0030.svg?&style=for-the-badge&logo=java"/>
  <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
