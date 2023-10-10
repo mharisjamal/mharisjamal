@@ -48,8 +48,8 @@ Here are some ideas to get you started:
 <table>
  <tr>
   <td>
-   <a href="https://www.github.com/harisboi">
-   <img src="https://github-readme-stats.vercel.app/api?username=harisboi&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="harisboi" />
+   <a href="https://www.github.com/thinkswell">
+     <img src="https://github-readme-stats.vercel.app/api?username=thinkswell&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="thinkswell" />   
    </a>
   </td>
   <td> 
