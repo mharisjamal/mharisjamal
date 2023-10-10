@@ -1,5 +1,5 @@
 <!--
-**thinkswell/thinkswell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**heheboi/heheboi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -13,14 +13,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi 👋, I'm Krishna Vishwakarma</h1>
+<h1 align="center">Hi 👋, I'm M.Haris Jamal</h1>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
-- 🌱 I’m currently learning 🅰️Angular. 
+- 🌱 I’m currently learning Machine Learning. 
 - 💬 Ask me about anything 👨‍💻
-- 📫 Mail me at [krishna23712@gmail.com](mailto:krishna23712@gmail.com)
-- ⚡ Fun fact about me: John Wick of Web Development (Man of Focus, Determination, and Sheer Will) 😉
+- 📫 Mail me at [harisjamal01@icloud.com](mailto:harisjamal01@icloud.com)
+- ⚡ Fun fact about me: John Wick of AI (Man of Focus, Determination, and Sheer Will) 😉
 
 
 <h3 align="left">Languages and Tools:</h3>
