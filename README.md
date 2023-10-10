@@ -71,11 +71,11 @@ Here are some ideas to get you started:
   </tr>
 </table>
 <p align="center"> 
-  <a href="https://www.instagram.com/mr_thinkswell">
+  <a href="https://www.instagram.com/hehebrooo">
     <img alt="Instagram" src="https://img.shields.io/badge/mr__thinkswell-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>
   </a>
     
-<a href="https://linkedin.com/in/-krishnavishwakarma">
+<a href="https://linkedin.com/in/heheboi">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
