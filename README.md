@@ -65,9 +65,9 @@ Here are some ideas to get you started:
    </a>
   </td>
    <td>
-    <a href="https://www.github.com/harisboiii">
+<!--     <a href="https://www.github.com/harisboiii">
     <img src ="https://github-readme-stats.vercel.app/api/pin/?username=harisboiii&repo=javascript-mini-projects&theme=tokyonight&show_icons=true&hide_border=true" />
-   </a>
+   </a> -->
   </td>
  </tr>
 </table>
