@@ -17,9 +17,10 @@ Here are some ideas to get you started:
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
-- 🌱 I’m currently learning Machine Learning. 
-- 💬 Ask me about anything 👨‍💻
+- 🌱 I’m currently learning NLP/CV.
+- See some of my deployed projects [here](https://huggingface.co/HEHEBOIOG)
 - 📫 Mail me at [harisjamal01@icloud.com](mailto:harisjamal01@icloud.com)
+- 💬 Ask me about anything 👨‍💻
 - ⚡ Fun fact about me: John Wick of AI (Man of Focus, Determination, and Sheer Will) 😉
 
 
