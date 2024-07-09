@@ -35,8 +35,6 @@ Here are some ideas to get you started:
 
 [![Haris Jamal's github stats](https://github-readme-stats.vercel.app/api?username=harisboiii&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-
-<h3 align="left">Languages and Tools:</h3>
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
