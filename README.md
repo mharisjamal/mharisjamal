@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 
 - 🌱 I’m currently learning NLP/CV.
-- See some of my deployed projects [here](https://huggingface.co/HEHEBOIOG)
+- See some of my deployed projects at [Spaces](https://huggingface.co/HEHEBOIOG)
 - 📫 Mail me at [harisjamal01@icloud.com](mailto:harisjamal01@icloud.com)
 - 💬 Ask me about anything 👨‍💻
 - ⚡ Fun fact about me: John Wick of AI (Man of Focus, Determination, and Sheer Will) 😉
