@@ -34,8 +34,10 @@ Here are some ideas to get you started:
 
 
 [![Haris Jamal's github stats](https://github-readme-stats.vercel.app/api?username=harisboiii&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-  
 
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="center"> 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
@@ -45,10 +47,6 @@ Here are some ideas to get you started:
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)
-
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="center"> 
  <img alt="NumPy" src="https://img.shields.io/badge/NumPy-%23000000.svg?&style=for-the-badge&logo=numpy"/>
  <img alt="Pandas" src="https://img.shields.io/badge/Pandas-%231F77B4.svg?&style=for-the-badge&logo=pandas"/>
  <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-AB32CD.svg?&style=for-the-badge&logo=tensorflow"/>
