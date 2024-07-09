@@ -18,10 +18,33 @@ Here are some ideas to get you started:
 
 
 - 🌱 I’m currently learning NLP/CV.
+- Bachelor's degree in Artificial Inteligence from FAST NUCES.
 - See some of my deployed projects at [Spaces](https://huggingface.co/HEHEBOIOG)
 - 📫 Mail me at [harisjamal01@icloud.com](mailto:harisjamal01@icloud.com)
 - 💬 Ask me about anything 👨‍💻
 - ⚡ Fun fact about me: John Wick of AI (Man of Focus, Determination, and Sheer Will) 😉
+
+### Certifications:
+- Introduction to Computer Vision and Image Processing by IBM : <a href='https://www.coursera.org/account/accomplishments/verify/8HUNPK5TA2HE'> Certificate link</a>
+
+![githubbadge](https://img.shields.io/github/followers/harisboiii?style=social)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:heheboiharis@gmail.com)](mailto:heheboiharis@gmail.com)
+[![Kaggle Badge](http://img.shields.io/badge/-Kaggle-black?style=flat-square&logo=kaggle&link=https://www.kaggle.com/abhinand05/)](https://www.kaggle.com/kaledhoshme123)
+
+
+
+[![Haris Jamal's github stats](https://github-readme-stats.vercel.app/api?username=harisboiii&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+  
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)
 
 
 <h3 align="left">Languages and Tools:</h3>
