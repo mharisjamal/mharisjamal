@@ -18,8 +18,9 @@ Here are some ideas to get you started:
 
 
 - 🌱 I’m currently learning NLP/CV.
-- Bachelor's degree in Artificial Inteligence from FAST NUCES.
-- See some of my deployed projects at [Spaces](https://huggingface.co/HEHEBOIOG)
+- Bachelor's degree in Artificial Inteligence from [FAST NUCES](https://www.nu.edu.pk/)
+- 🔭 See some of my deployed projects at [Spaces](https://huggingface.co/HEHEBOIOG)
+- ⚡Intern at [Systems Limited](https://www.systemsltd.com/PK)
 - 📫 Mail me at [harisjamal01@icloud.com](mailto:harisjamal01@icloud.com)
 - 💬 Ask me about anything 👨‍💻
 - ⚡ Fun fact about me: John Wick of AI (Man of Focus, Determination, and Sheer Will) 😉
