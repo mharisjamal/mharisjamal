@@ -5,76 +5,82 @@
 <h1 align="center">Hi 👋, I'm M. Haris Jamal</h1>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-- 🌱 I’m currently learning NLP/CV.
-- Bachelor's degree in Artificial Intelligence from [FAST NUCES](https://www.nu.edu.pk/)
+- 🌱 I'm currently learning NLP/CV
+- 🎓 Bachelor's degree in Artificial Intelligence from [FAST NUCES](https://www.nu.edu.pk/)
 - 🔭 See some of my deployed projects at [Spaces](https://huggingface.co/HEHEBOIOG)
-- ⚡ Intern at [Systems Limited](https://www.systemsltd.com/PK)
-- 📫 Mail me at [harisjamal01@icloud.com](mailto:harisjamal01@icloud.com)
-- 💬 Ask me about anything 👨‍💻
-- ⚡ Fun fact about me: John Wick of AI (Man of Focus, Determination, and Sheer Will) 😉
+- 💼 AI Intern at [Systems Limited](https://www.systemsltd.com/PK)
+- 📫 Reach me at [harisjamal01@icloud.com](mailto:harisjamal01@icloud.com)
+- 💬 Ask me about AI/ML, Computer Vision, or NLP
+- ⚡ Fun fact: John Wick of AI (Man of Focus, Determination, and Sheer Will) 😉
 
 ### Certifications:
-- Introduction to Computer Vision and Image Processing by IBM: [Certificate link](https://www.coursera.org/account/accomplishments/verify/8HUNPK5TA2HE)
+- Introduction to Computer Vision and Image Processing by IBM: [Certificate](https://www.coursera.org/account/accomplishments/verify/8HUNPK5TA2HE)
 
-![githubbadge](https://img.shields.io/github/followers/harisboiii?style=social)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:heheboiharis@gmail.com)](mailto:heheboiharis@gmail.com)
-[![Kaggle Badge](http://img.shields.io/badge/-Kaggle-black?style=flat-square&logo=kaggle&link=https://www.kaggle.com/kaledhoshme123/)](https://www.kaggle.com/kaledhoshme123)
+![GitHub followers](https://img.shields.io/github/followers/harisboiii?style=social)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:heheboiharis@gmail.com)](mailto:heheboiharis@gmail.com)
+[![Kaggle](https://img.shields.io/badge/-Kaggle-black?style=flat-square&logo=kaggle&link=https://www.kaggle.com/kaledhoshme123/)](https://www.kaggle.com/kaledhoshme123)
 
-[![Haris Jamal's github stats](https://github-readme-stats.vercel.app/api?username=harisboiii&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+### Tech Stack
 
+**Languages & Frameworks:**
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C.svg?style=for-the-badge&logo=c%2B%2B)
+![Java](https://img.shields.io/badge/Java-DF0030.svg?style=for-the-badge&logo=java)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+
+**AI/ML Tools:**
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-E4572B.svg?style=for-the-badge&logo=pytorch)
+![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+**Data Science:**
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)
-<img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-E4572B.svg?&style=for-the-badge&logo=pytorch"/>
-<img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C.svg?&style=for-the-badge&logo=c%2B%2B"/>
-<img alt="Java" src="https://img.shields.io/badge/Java-DF0030.svg?&style=for-the-badge&logo=java"/>
-<img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
-<img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
-<img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-<img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
-<img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
-<img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
 
-<br/><br/>
+**Dev Tools:**
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+<br/>
+
+### GitHub Stats
 
 <table>
  <tr>
   <td>
-   <a href="https://www.github.com/harisboiii">
-     <img src="https://github-readme-stats.vercel.app/api?username=harisboiii&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="harisboiii" />   
+   <a href="https://www.github.com/mharisjamal">
+     <img src="https://github-readme-stats.vercel.app/api?username=harisboiii&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="mharisjamal" />   
    </a>
   </td>
   <td> 
-   <a href="https://www.github.com/harisboiii">
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=harisboiii&hide_border=true&theme=tokyonight" />
+   <a href="https://www.github.com/mharisjamal">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=harisboiii&hide_border=true&theme=tokyonight" />
    </a>
   </td>
  </tr>
  <tr>
   <td>
-   <a href="https://www.github.com/harisboiii">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harisboiii&langs_count=8&layout=compact&theme=tokyonight&hide_border=true" />
+   <a href="https://www.github.com/mharisjamal">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mharisjamal&langs_count=8&layout=compact&theme=tokyonight&hide_border=true" />
    </a>
-  </td>
-   <td>
-<!--     <a href="https://www.github.com/harisboiii">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=harisboiii&repo=javascript-mini-projects&theme=tokyonight&show_icons=true&hide_border=true" />
-   </a> -->
   </td>
  </tr>
 </table>
+
+### Let's Connect
 <p align="center"> 
- <a href="https://www.instagram.com/hehebrooo">
-  <img alt="Instagram" src="https://img.shields.io/badge/hehebrooo-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>
+ <a href="https://www.instagram.com/heheboiog">
+  <img alt="Instagram" src="https://img.shields.io/badge/heheboiog%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>
  </a>
    
- <a href="https://linkedin.com/in/heheboi">
+ <a href="https://linkedin.com/in/mharisjamal">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
  </a>
 </p>
