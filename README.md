@@ -49,38 +49,3 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 <br/>
-
-### GitHub Stats
-
-<table>
- <tr>
-  <td>
-   <a href="https://www.github.com/mharisjamal">
-     <img src="https://github-readme-stats.vercel.app/api?username=harisboiii&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="mharisjamal" />   
-   </a>
-  </td>
-  <td> 
-   <a href="https://www.github.com/mharisjamal">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=harisboiii&hide_border=true&theme=tokyonight" />
-   </a>
-  </td>
- </tr>
- <tr>
-  <td>
-   <a href="https://www.github.com/mharisjamal">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mharisjamal&langs_count=8&layout=compact&theme=tokyonight&hide_border=true" />
-   </a>
-  </td>
- </tr>
-</table>
-
-### Let's Connect
-<p align="center"> 
- <a href="https://www.instagram.com/heheboiog">
-  <img alt="Instagram" src="https://img.shields.io/badge/heheboiog%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>
- </a>
-   
- <a href="https://linkedin.com/in/mharisjamal">
-  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
- </a>
-</p>
